@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    background-color:rgb(141, 197, 141);
+    color:rgb(24, 24, 25);
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    background-color:rgb(129, 210, 210);
+    color:rgb(23, 23, 23);
+    font-size: 20px;
+}
+
+p{
+    color:rgb(14, 15, 15);
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+body {
+    background-color: #c6e2ef; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+  list-style-type: none;   
+  margin: 0;               
+  padding: 0;              
+  display: flex;           
+  justify-content: center; 
+  gap: 1rem;              
+}
+
+li {
+  list-style-type: none;   
+
+a {
+  text-decoration: none;   
+  color:black;
+}
+}
